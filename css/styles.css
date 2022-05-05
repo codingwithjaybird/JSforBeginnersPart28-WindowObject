@@ -1,0 +1,13 @@
+body {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+h3 {
+  color: slategrey;
+}
+
+span {
+  color: darkblue;
+}
